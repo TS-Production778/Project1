@@ -5,7 +5,7 @@
 <title>Галилео Галилей</title>
 <meta name="generator" content="WYSIWYG Web Builder 16 Trial Version - https://www.wysiwygwebbuilder.com">
 <link href="Галерея_ученых.css" rel="stylesheet">
-<link href="Niuton.css" rel="stylesheet">
+<link href="Galiley.css" rel="stylesheet">
 <script src="jquery-1.12.4.min.js"></script>
 <script src="jquery-ui.min.js"></script>
 <script src="wb.slideshow.min.js"></script
